@@ -159,7 +159,7 @@ cmd>
   ```
 
 ## User-friendly command line
-[linenoise](https://github.com/antirez/linenoise) was integrated into `qtest`, providing the following user-friendly features:
+[linenoise](https://github.com/Unity-Billal-mesloub/linenoise) was integrated into `qtest`, providing the following user-friendly features:
 * Move cursor by Left and Right key
 * Jump the cursor over words by Ctrl-Left and Ctrl-Right key
 * Get previous or next command typed before by up and down key
@@ -185,14 +185,8 @@ $ curl http://localhost:9999/sort
 $ curl http://localhost:9999/quit
 ```
 
-## License
-
-`lab0-c` is released under the BSD 2 clause license. Use of this source code is governed by
-a BSD-style license that can be found in the LICENSE file.
-
 External source code:
-* [dudect](https://github.com/oreparaz/dudect): public domain
-* [git-good-commit](https://github.com/tommarshall/git-good-commit): MIT License
-* [linenoise](https://github.com/antirez/linenoise): BSD 2-Clause "Simplified" License
-* [tiny-web-server](https://github.com/7890/tiny-web-server): MIT License
-* [randombytes](https://github.com/dsprenkels/randombytes): MIT License
+
+* [git-good-commit](https://github.com/Unity-Billal-mesloub/git-good-commit): MIT License
+* [linenoise](https://github.com/Unity-Billal-mesloub/linenoise): BSD 2-Clause "Simplified" License
+
